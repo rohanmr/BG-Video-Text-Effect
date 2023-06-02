@@ -1,8 +1,8 @@
 # BG-Video-Text-Effect
 
-# Background Video Effect For Happy New Year 2023
+Background Video Effect For Happy New Year 2023
 
-Download the Cde and Run on Live-Server
+Download the Code and Run on Live-Server
 
 Output Image:
 
