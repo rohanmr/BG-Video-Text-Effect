@@ -1,8 +1,10 @@
 # BG-Video-Text-Effect
 
-Background Video Effect For Happy New Year 2023
+Download the Code and Open in VS code.
 
-Download the Code and Run on Live-Server
+Run on Live-Server
+
+Background Video Effect For Happy New Year 2023.
 
 Output Image:
 
