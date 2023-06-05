@@ -2,7 +2,7 @@
 
 Download the Code and Open in VS code.
 
-Run on Live-Server
+Run on Live-Server.
 
 Background Video Effect For Happy New Year 2023.
 
