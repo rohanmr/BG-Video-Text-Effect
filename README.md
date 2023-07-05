@@ -1,6 +1,6 @@
 # BG-Video-Text-Effect
 
-Download the Code and Open in VS code.
+Download the Code and Open it in VS code.
 
 Run on Live-Server.
 
